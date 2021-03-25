@@ -39,8 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![("https://cdn.glitch.com/ec7d154e-2722-439f-a834-c3070c929ce6%2Fpre.gif?v=1616649784580")]
-
+<img src="https://cdn.glitch.com/ec7d154e-2722-439f-a834-c3070c929ce6%2Fpre.gif?v=1616649784580"/>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
